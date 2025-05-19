@@ -2,7 +2,11 @@ Sr.No	GIT Command	Discription
 1	git status	to
 2	git init	
 3	git add <filename>...	
-4	git add *	to Add all file from folder of to update what will be committed olny add modify file 
-5	git restore <filename>...	to discard changes in working directory or Undo change 
+4	git add *	to Add all file from folder of to update what will be committed add untracj and modify move to  commit section 
+5	git restore <filename>...	to discard changes in working directory or Undo change in to file
 6		
-7	git rm --cached <filename>...	to unstage commit
+7	git rm --cached <filename>...	to unstage commit move file from comment section to untrack section
+8	git commit -m "Comment"	
+9	git config --global user.email "you@example.com"	to Add user mail id 
+10	git config --global user.name "Your Name"	ro add user name 
+11	git config --global --liat	list user mail id and name

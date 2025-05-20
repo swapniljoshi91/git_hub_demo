@@ -17,7 +17,7 @@ gir add .             move all hide file/ folder from the repo
 git restore --staged * move undo all file and folder from the stage to rapo
 git restore --staged . move undo all hide file/ folder from the stage to rapo
 
-
+git diff to check the what changes made by user
 
 git commit -m "comment"                move file and folder from staged to main secton
 

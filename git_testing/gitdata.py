@@ -74,5 +74,22 @@ git clone <repo link>
 
 
 
+branch
+
+git branch                    it show current branch * show working on which one
+git branch <newbranch name>   to create new branch in repo
+git checkout <brnach name>    to swtch branch
+for it i create one flie name file for new branch
+
+
+
+
+
+
+
+
+
+
+
 
 

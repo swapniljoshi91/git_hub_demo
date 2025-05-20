@@ -25,4 +25,8 @@ git log it list out commit on the rep
 
 git show <commit id>:<filename>   to check priveus file which is commited
 
+git checkout <commit id> --* goto specific commet no, file
+
+git checkout mastar --* back to master file
+
 

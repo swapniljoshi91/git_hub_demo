@@ -1,4 +1,5 @@
 from http.cookiejar import request_port
+from unittest import removeResult
 from urllib.response import addbase
 
 git --version           use for check git version.
@@ -53,4 +54,14 @@ git log --stat (summary of changes)
 git log --pretty=online
 git log --pretty=format:"%h - %an, %ar:%s"
 git log -S function_name
+
+git remote repo
+
+
+git remote  add origin https://github.com/<username>/<reponame>.git
+git branch -M main
+git branch -M master
+git push -u origin main
+
+
 

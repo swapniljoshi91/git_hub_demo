@@ -1,3 +1,4 @@
+from http.cookiejar import request_port
 from urllib.response import addbase
 
 git --version           use for check git version.
@@ -19,6 +20,8 @@ git restore --staged . move undo all hide file/ folder from the stage to rapo
 
 
 git commit -m "comment"                move file and folder from staged to main secton
+
+git log it list out commit on the rep
 
 
 

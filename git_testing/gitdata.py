@@ -68,6 +68,10 @@ git remote
 git remote -v
 
 
+git pull  it is for taking data from online repo
+
+git clone <repo link>
+
 
 
 

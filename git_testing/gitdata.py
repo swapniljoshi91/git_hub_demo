@@ -63,5 +63,12 @@ git branch -M main
 git branch -M master
 git push -u origin main
 
+git remote
+
+git remote -v
+
+
+
+
 
 

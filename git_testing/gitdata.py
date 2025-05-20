@@ -23,6 +23,6 @@ git commit -m "comment"                move file and folder from staged to main 
 
 git log it list out commit on the rep
 
-
+git show <commit id>:<filename>   to check priveus file which is commited
 
 
